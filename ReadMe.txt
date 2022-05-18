@@ -1,1 +1,1 @@
-squash
+Cherry
